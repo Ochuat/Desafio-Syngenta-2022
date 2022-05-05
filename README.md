@@ -4,24 +4,20 @@ Código desenvolvido em cumprimento ao desafio Syngenta Digital como uma etapa d
 
 ### 🔧 Instalação
 
-Se for apenas analisar o meu código, basta fazer o download do arquivo não compactado e abri-lo no seu editor de texto preferido: 
+Se for apenas analisar o [meu código](https://github.com/Ochuat/Desafio-Syngenta-2022/blob/master/meu_codigo.py), basta fazer o download do arquivo não compactado e abri-lo no seu editor de texto preferido: 
 
 Meu código:
 
 ```
-[meu_codigo.py](https://github.com/syngenta-digital/challenge-python-hotel-reservation-test)
+meu_codigo.py
 ```
 
-Se quiser adquirir os arquivos para teste automático (teste unitário), acesso o [link](https://github.com/syngenta-digital/challenge-python-hotel-reservation-test).
+Se quiser adquirir os arquivos para teste automático (teste unitário), acessar o [link](https://github.com/syngenta-digital/challenge-python-hotel-reservation-test).
+
+Agora, se quiser meu repositório inteiro, incluindo o meu código e os teste, baixe [este arquivo](https://github.com/Ochuat/Desafio-Syngenta-2022/blob/master/challenge_python.zip):
 
 ```
-[Teste Unitários](https://github.com/syngenta-digital/challenge-python-hotel-reservation-test)
-```
-
-Agora, se quiser meu repositório inteiro, incluindo o meu código e os teste, baixe o arquivo challenge_python.zip
-
-```
-[Repositório completo](https://github.com/syngenta-digital/challenge-python-hotel-reservation-test)
+challenge_python.zip
 ```
 
 ## ⚙️ Executando os testes
@@ -36,7 +32,7 @@ ou
 $ pip3 install -r requirements.txt
 ```
 
-Agora, para executar o teste, passe o comando:
+Agora, para executar o teste, passe a instrução:
 
 ```
 $ py.test
@@ -44,11 +40,12 @@ $ py.test
 
 ## 📌 Versão
 
-Versão 0.1. 
+Versão 0.1
 
 ## ✒️ Autor
 
 * **Gustavo Serra Bezerra**
+* **Vaga desejado: Engenharia de Dados**
 
 ---
 ⌨️ com ❤️ por [Gustavo Serra](https://www.linkedin.com/in/gustavoserrabezerra/) 😊
