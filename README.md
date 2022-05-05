@@ -22,7 +22,7 @@ challenge_python.zip
 
 ## ⚙️ Executando os testes
 
-Para realizar instalar os [testes](https://github.com/syngenta-digital/challenge-python-hotel-reservation-test), via linha de comando no terminal, entre na pasta onde colocou os arquivos descompactados e execute o comando:
+Para realizar os [testes](https://github.com/syngenta-digital/challenge-python-hotel-reservation-test), primeiro instale a aplicação: via linha de comando no terminal, entre na pasta onde colocou os arquivos descompactados e execute o comando:
 
 ```
 $ pip install -r requirements.txt
@@ -45,7 +45,7 @@ Versão 0.1
 ## ✒️ Autor
 
 * **Gustavo Serra Bezerra**
-* **Vaga desejado: Engenharia de Dados**
+* **Vaga desejada: Engenharia de Dados**
 
 ---
 ⌨️ com ❤️ por [Gustavo Serra](https://www.linkedin.com/in/gustavoserrabezerra/) 😊
